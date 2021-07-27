@@ -1,6 +1,6 @@
 ### MySQL All For One Project 
 
-Este é o primeiro projeto do Módulo de Desenvolvimento da Trybe. 
+Este é o primeiro projeto do Módulo de Desenvolvimento Back-End da Trybe. 
 
 # Sumário
 
