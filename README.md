@@ -59,8 +59,8 @@ Nesse projeto, foram desenvolvidas e avaliadas as seguintes habilidades:
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-010-a-mysql-all-for-one`
 
-2. Instale as dependências [**Caso existam**]
-  * `npm install` [**exemplo**]
+2. Instale as dependências
+  * `npm install`
 
 3. Vá para a branch do projeto
   * Verifique que você está na branch `master`
